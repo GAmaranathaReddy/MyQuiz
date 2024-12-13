@@ -29,8 +29,8 @@ markdown_extensions:
   - pymdownx.superfences
 
 nav:
-  - 'Java': 
-    - 'Foundation': java/foundation.md
+  - 'Java':
+      - 'Foundation': java/foundation.md
 
 repo_url: https://github.com/GAmaranathaReddy/MyQuiz
 repo_name: GAmaranathaReddy/MyQuiz
